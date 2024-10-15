@@ -1,5 +1,3 @@
-# Polimi-Computer Graphics
+# Polimi-Performance Evaluation and Analisys 
 
-Assignments and Final project done for Computer Graphics course.
-
-Final Project in collaboration with Andrea-Infantino
+Assignments and Final project done for Performance Evaluation and Analisys course.
